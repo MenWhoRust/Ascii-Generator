@@ -13,6 +13,6 @@
 -   `--cols [INTEGER]` - How many columns you want the art to be.
 -   `--morelevels` - Extends the variety of characters.
 
-Default ASCII characters: `"@%#*+=-:. " `.
+Default ASCII characters: `@%#*+=-:. " `.
 
 Extended ASCII characters: `` $@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^`'.  ``
